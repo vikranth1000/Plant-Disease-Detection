@@ -59,3 +59,9 @@ The models achieved varying accuracy levels, as recorded in `Accuracy.csv`. ResN
 
 ## Contributors
 This project was developed collaboratively as part of a group effort during our undergraduate program.
+Collaborators:
+M. KRISHNA REVANTH REDDY
+J. HEMA SAI VENKAT
+B. VENU KUMAR
+R. VIKRANTH
+B. NAVYA SREE
